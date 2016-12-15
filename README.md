@@ -19,4 +19,6 @@
      - [더하기 4](http://stompesi.tistory.com/entry/%E1%84%83%E1%85%A5%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5-11024)
    - 더하기 빼기
      - [오르막길](http://stompesi.tistory.com/entry/%E1%84%8B%E1%85%A9%E1%84%85%E1%85%B3%E1%84%86%E1%85%A1%E1%86%A8%E1%84%80%E1%85%B5%E1%86%AF-2846)
+     - [윷놀이](http://stompesi.tistory.com/entry/%E1%84%8B%E1%85%B2%E1%86%BE%E1%84%82%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%B5-2490)
+
 
