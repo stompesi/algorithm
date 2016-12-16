@@ -22,3 +22,7 @@
      - [윷놀이](http://stompesi.tistory.com/entry/%E1%84%8B%E1%85%B2%E1%86%BE%E1%84%82%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%B5-2490)
 
 
+- 별찍기
+  - [별찍기 11](http://stompesi.tistory.com/entry/%E1%84%87%E1%85%A7%E1%86%AF%E1%84%8D%E1%85%B5%E1%86%A8%E1%84%80%E1%85%B5-11-2448)
+
+
